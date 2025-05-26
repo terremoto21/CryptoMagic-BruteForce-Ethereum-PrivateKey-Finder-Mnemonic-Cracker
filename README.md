@@ -1,0 +1,2 @@
+# CryptoMagic-BruteForce-Ethereum-PrivateKey-Finder-Mnemonic-Cracker
+CryptoMagic is a powerful Python-based tool designed for advanced Ethereum address hunting and private key cracking through mnemonic generation. By leveraging multi-threading and cryptographic techniques (BIP-39, BIP-32), this tool generates private keys, compares them against a list of Ethereum "rich addresses," and attempts to find a match.
